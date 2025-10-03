@@ -8,7 +8,7 @@ function myload() {
 }
 const images8=[{
       price:"  1.5EGPالوحده(13EGPالعشره ب )   ",
-      name:"جلاد بوني فاتح (بترولي)",
+      name:"جلاد بني فاتح )",
       img:"img/cover/صورة واتساب بتاريخ 2025-09-30 في 19.36.39_60a3db61.jpg"
 },
 {
@@ -211,6 +211,7 @@ for (let i = 0; i < btns.length; i++) {
     
   });
 }
+
 
 
 
