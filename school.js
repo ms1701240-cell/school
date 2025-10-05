@@ -132,7 +132,7 @@ const images = [
   },
   {
     price: "7EGP",
-    name: "تسعه اسطر 56 ورقه"
+    name: "تسعه اسطر 56 ورقه",
     img: "img/كرارسات/IMG-20250928-WA0013.jpg",
   },
   {
@@ -211,6 +211,7 @@ for (let i = 0; i < btns.length; i++) {
     
   });
 }
+
 
 
 
