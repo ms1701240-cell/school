@@ -37,26 +37,31 @@ const images7 = [
     price: "30EGP",
     name: "سكيتش 200ورقه",
     img: "img/skitch/صورة واتساب بتاريخ 2025-10-01 في 07.14.27_bb6f38fc.jpg",
+    dec: "تم البيع"
   },
   {
     price: "13EGP",
     name: "سكيتش 80 ورقه ",
     img: "img/skitch/صورة واتساب بتاريخ 2025-10-01 في 07.14.28_3b01269c.jpg",
+    dec: "تم البيع"
   },
   {
     price: "20EGP",
     name: "سكيتش 140 ورقه",
     img: "img/skitch/صورة واتساب بتاريخ 2025-10-01 في 07.14.28_5a496af8.jpg",
+    dec: "تم البيع"
   },
   {
     price: "18EGP",
     name: "سكيتش صغير 140 ورقه",
     img: "img/skitch/صورة واتساب بتاريخ 2025-10-01 في 07.14.28_30ff15fb.jpg",
+    dec: "تم البيع"
   },
   {
     price: "15EGP",
     name: "سكيتش 100 ورقه",
     img: "img/skitch/صورة واتساب بتاريخ 2025-10-01 في 07.21.35_545f98cf.jpg",
+    dec: "تم البيع"
   },
 ];
 const images2 = [
@@ -69,6 +74,7 @@ const images2 = [
     price: "2.5EGP",
     name: "Roto 1.0mm",
     img: "img/اقلام/صورة واتساب بتاريخ 2025-09-30 في 14.44.15_f53e6eca.jpg",
+    dec: "تم البيع"
   },
 ];
 
@@ -82,6 +88,7 @@ const images3 = [
     price: "15EGP",
     name: "PRIMA FLASH MED",
     img: "img/penscolor/IMG-20250928-WA0011.jpg",
+    dec:"تم البيع"
   },
 ];
 
@@ -95,6 +102,7 @@ const images4 = [
     price: "8EGP",
     name: "UNIK قلم صبوره",
     img: "img/marker/صورة واتساب بتاريخ 2025-09-30 في 14.44.15_31621b0f.jpg",
+    dec:"متبقي 4ازرق /2اسود"
   },
 ];
 
@@ -116,6 +124,7 @@ const images6 = [
     price: "7.5EGP",
     name: "برايه حديد",
     img: "img/pencil scharpener/IMG-20250928-WA0006.jpg",
+    dec:"متبقي واحده فقط"
   },
 ];
 
@@ -158,6 +167,7 @@ function display(tschool) {
   <div class="card-body ">
     <p class="card-text">${tschool[i].name}</p>
      <p class="card-text">${tschool[i].price}</p>
+     <p class="card-text">${tschool[i].dec}</p>
   </div>
 </div>
             </div>
@@ -211,6 +221,7 @@ for (let i = 0; i < btns.length; i++) {
     
   });
 }
+
 
 
 
