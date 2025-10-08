@@ -144,31 +144,31 @@ const images = [
     price: "7EGP",
     name: "ورقه 56 مسطر عربي",
     img: "img/كرارسات/IMG-20250928-WA0009.jpg",
-      dec: "متوفر"
+      dec: "تم البيع"
   },
   {
     price: "7EGP",
     name: "ورقه 56 مسطر عربي",
     img: "img/كرارسات/IMG-20250928-WA0012.jpg",
-      dec: "متوفر"
+       dec: "تم البيع"
   },
   {
     price: "7EGP",
     name: "تسعه اسطر 56 ورقه",
     img: "img/كرارسات/IMG-20250928-WA0013.jpg",
-      dec: "متوفر"
+       dec: "تم البيع"
   },
   {
     price: "7EGP",
     name: "ورقه 56 مسطر عربي",
     img: "img/كرارسات/IMG-20250928-WA0014.jpg",
-      dec: "متوفر"
+       dec: "تم البيع"
   },
   {
     price: "7EGP",
     name: "ورقه 56 مسطر عربي",
     img: "img/كرارسات/IMG-20250928-WA0015.jpg",
-      dec: "متوفر"
+     dec: "تم البيع"
   },
 ];
 
@@ -237,6 +237,7 @@ for (let i = 0; i < btns.length; i++) {
     
   });
 }
+
 
 
 
