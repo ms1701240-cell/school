@@ -111,7 +111,7 @@ const images4 = [
     price: "8EGP",
     name: "UNIK قلم صبوره",
     img: "img/marker/صورة واتساب بتاريخ 2025-09-30 في 14.44.15_31621b0f.jpg",
-    dec:"متبقي 4ازرق /2اسود"
+    dec:"تم البيع"
   },
 ];
 
@@ -135,7 +135,7 @@ const images6 = [
     price: "7.5EGP",
     name: "برايه حديد",
     img: "img/pencil scharpener/IMG-20250928-WA0006.jpg",
-    dec:"متبقي واحده فقط"
+    dec:"تم البيع"
   },
 ];
 
@@ -237,6 +237,7 @@ for (let i = 0; i < btns.length; i++) {
     
   });
 }
+
 
 
 
