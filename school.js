@@ -17,19 +17,19 @@ const images8=[{
  price:"  1.5EGPالوحده(13EGPالعشره ب )",
       name:"جلاد احمر",
       img:"img/cover/صورة واتساب بتاريخ 2025-09-30 في 19.36.40_0e3f6942.jpg",
-          dec: "متوفر"
+          dec: "تم البيع"
 },
 {
  price:"  1.5EGPالوحده(13EGPالعشره ب )   ",
       name:"جلاد ازرق",
       img:"img/cover/صورة واتساب بتاريخ 2025-09-30 في 19.36.40_bf9ba835.jpg",
-         dec: "متوفر"
+         dec: "تم البيع"
 },
 {
  price:" 1.5EGPالوحده(13EGPالعشره ب )   ",
       name:"جلاد اخضر",
       img:"img/cover/صورة واتساب بتاريخ 2025-09-30 في 19.36.41_19f248f2.jpg",
-        dec: "متوفر"
+        dec: "تم البيع"
 },
 {
     price:" 1.5EGPالوحده(13EGPالعشره ب )   ",
@@ -72,7 +72,7 @@ const images7 = [
 ];
 const images2 = [
   {
-    price: "2EGP",
+    price: "2.5EGP",
     name: "Pronto 0.7mm",
     img: "img/اقلام/صورة واتساب بتاريخ 2025-09-30 في 14.44.15_f47a11d3.jpg",
       dec: "متوفر"
@@ -90,7 +90,7 @@ const images3 = [
     price: "7.5EGP",
     name: "الوان خشب",
     img: "img/penscolor/IMG-20250928-WA0005.jpg",
-      dec: "متوفر"
+      dec: " متوفر اثنان فقط "
   },
   {
     price: "15EGP",
@@ -105,7 +105,7 @@ const images4 = [
     price: "10EGP بالعلبه",
     name: "prima color الوان فلوماستر",
     img: "img/marker/IMG-20250928-WA0004.jpg",
-      dec: "متوفر"
+      dec: " متوفر اثنان فقط"
   },
   {
     price: "8EGP",
@@ -117,10 +117,10 @@ const images4 = [
 
 const images5 = [
   {
-    price: "20EGP",
+    price: "30EGP",
     name: "لانش بوكس",
     img: "img/صورة واتساب بتاريخ 2025-09-30 في 17.03.26_f4671c76.jpg",
-      dec: "متوفر"
+      dec: " متوفر واحده فقط"
   },
 ];
 
@@ -237,6 +237,7 @@ for (let i = 0; i < btns.length; i++) {
     
   });
 }
+
 
 
 
