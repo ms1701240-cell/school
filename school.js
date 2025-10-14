@@ -102,7 +102,7 @@ const images3 = [
 
 const images4 = [
   {
-    price: "10EGP بالعلبه",
+    price: "12EGP بالعلبه",
     name: "prima color الوان فلوماستر",
     img: "img/marker/IMG-20250928-WA0004.jpg",
       dec: " متوفر اثنان فقط"
@@ -237,6 +237,7 @@ for (let i = 0; i < btns.length; i++) {
     
   });
 }
+
 
 
 
